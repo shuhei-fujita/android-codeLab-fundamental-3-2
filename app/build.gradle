@@ -60,4 +60,7 @@ dependencies {
 //    Navigationのdependenciesをここに追加
     implementation"android.arch.navigation:navigation-fragment-ktx:$navigationVersion"
     implementation "android.arch.navigation:navigation-ui-ktx:$navigationVersion"
+
+//    Material
+    implementation "com.google.android.material:material:$supportlibVersion"
 }
